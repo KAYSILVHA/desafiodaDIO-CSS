@@ -1,6 +1,4 @@
-# desafiodaDIO-CSS
-Desafio de CSS oferecido pelo curso de CSS da DIO.me
-<h1 align="center"> DesafioDeInverno </h1>
+<h1 align="center"> Desafio de CSS </h1>
 
 <p align="center">
 Este foi um desafio proposto pelo curso de CSS da <a href="https://www.dio.me/">DIO.me </a>!
